@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Mahder Haileslasse
 
-Track Name: 
+Track Name: Backend development 
 
-Track Description: 
+Track Description: Backend development using node.js with express.
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
